@@ -6,7 +6,7 @@ import Header from'../../HeaderComp';
 const App = () => {
   return (
     <div id="main">
-    <Header></Header>
+    <Header>dd</Header>
     <Section1></Section1>
     </div>
   )
