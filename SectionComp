@@ -1,0 +1,8 @@
+export default function Section1()
+{
+    return(
+        <div data-ns-test="project-description">
+            <p>This my very first app in the react</p>
+        </div>
+    );
+}
