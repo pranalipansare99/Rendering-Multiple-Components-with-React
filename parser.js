@@ -8,20 +8,4 @@ const result = parser.xml2json(xml, options)
 
 console.log(result);
 
-export default function Header(){
-  return (
-    <header data-ns-test="project-name">
-    <h2 >Calculator</h2>
-    </header>
-    
-    )
-}
 
-
-export default function Section(){
-  return (
-<div data-ns-test="project-description">
-    <p>This is my First app</p>
-    </div>
-    )
-}
