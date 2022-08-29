@@ -6,8 +6,8 @@ import Section1 from'./HeaderComp';
 const App = () => {
   return (
     <div id="main">
-    <Header></Header>
-    <Section1></Section1>
+    <Header>Calculator</Header>
+    <Section1>first app in react</Section1>
     </div>
   )
 }
