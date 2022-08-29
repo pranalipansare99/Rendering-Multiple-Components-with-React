@@ -1,6 +1,7 @@
 import React, {Component, useState} from "react";
 import '../styles/App.css';
-import '../parser';
+import Header from'./parser';
+import section from'./parser';
 
 const App = () => {
   return (
