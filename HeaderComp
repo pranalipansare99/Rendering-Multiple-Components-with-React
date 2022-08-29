@@ -1,0 +1,7 @@
+export default function Header(){
+return (
+<header data-ns-test="project-name" >
+<h2>Calculator</h2>
+</header>
+)
+}
