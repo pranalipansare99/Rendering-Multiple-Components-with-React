@@ -5,9 +5,10 @@ import Section1 from'./HeaderComp';
 
 const App = () => {
   return (
-    <div id="main"></div>
+    <div id="main">
     <Header></Header>
     <Section1></Section1>
+    </div>
   )
 }
 
