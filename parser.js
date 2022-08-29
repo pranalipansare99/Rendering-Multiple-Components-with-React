@@ -13,7 +13,14 @@ export default function Header(){
     <header data-ns-test="project-name">
     <h2 >Calculator</h2>
     </header>
-    <div data-ns-test="project-description">
+    
+    )
+}
+
+
+export default function Section(){
+  return (
+<div data-ns-test="project-description">
     <p>This is my First app</p>
     </div>
     )
